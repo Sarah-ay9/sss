@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  # 配置数据库连接信息
+  datasource:
+    url: jdbc:mysql://localhost:3306/1908_a
+    username: root
+    password:
